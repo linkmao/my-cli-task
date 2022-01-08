@@ -21,7 +21,7 @@ const taskQuestion = [
   },
 ];
 
-program.version("0.0.1").description("Task Management CLI");
+program.version("1.0.0").description("Task Management CLI");
 
 program
   .command("save")
