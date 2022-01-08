@@ -52,7 +52,8 @@ Por ejemplo
 
 *** 
 ## Por menores del proyecto
-1. Es interesante el uso de console.table() para mostrar la información en forma de tabla
+1. Es interesante el uso de console.table() para mostrar la información en forma de tabla.
+2. La creación de un comando como clitask, en el archivo package.json y el uso del comando `npm link`
 
 
 ## Mejoras futuras
